@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/flower-shop-master/precache-manifest.fc142ea72eb5dbf593e1eaab35ff94b6.js"
+  "/flower-shop-master/precache-manifest.37a8adb7c372803e19ae0790efccd2a3.js"
 );
 
 workbox.clientsClaim();
